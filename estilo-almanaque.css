@@ -265,9 +265,7 @@ span > h3 {
     border-color: #C18C5D;
     position: absolute;
     top: 160px ; 
-    left: 18px ;
-   
-    
+    left: 18px ;  
 }
 
 .modal-body {
@@ -616,7 +614,14 @@ span > h3 {
         
     }
 
-    
+    .botao-tiago-canvas {
+        color: #fff;
+        background-color: #C18C5D;
+        border-color: #C18C5D;
+        position: absolute;
+        top: 151px;
+        left: 5px; 
+    }
 }
 
 /*xx-small*/
